@@ -7,11 +7,8 @@ This was my final group project at my le wagon boot camp! Using the skills we le
 
 The website would take an uploaded png and go through three neural net work models
 
-1. A home-brewed sequential classifcation model to detect organs
+1. A home-brewed sequential classifcation model to detect organs (5 Organs)
 2. A binary classfication VGG16 model to be able to detect diseases
-3. A multi-class VGG16 model which detetcs whcih disease is present in the organs
+3. A multi-class VGG16 model which detetcs whcih disease is present in the organs (36 Diseases)
 
-
-
-
-
+As I am not the project owner the website is no longer online, this was a 10 day group project.
